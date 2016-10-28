@@ -3,6 +3,12 @@ body {
     padding-top: 50px;
     padding-bottom: 0;
 }
+
+.jumbotron {
+    background-image: url("man.jpg");
+    background-size: cover;
+    padding: 15% 0;
+}
 form {
     
 }
